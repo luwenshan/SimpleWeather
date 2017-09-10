@@ -1,4 +1,4 @@
-package com.lws.simpleweather;
+package com.lws.weather;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;

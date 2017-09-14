@@ -1,4 +1,4 @@
-package com.lws.library.fragment;
+package com.lws.android.library.fragment;
 
 import android.os.Bundle;
 import android.support.annotation.Nullable;

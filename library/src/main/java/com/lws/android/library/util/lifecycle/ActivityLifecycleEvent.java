@@ -1,4 +1,4 @@
-package com.lws.library.util.lifecycle;
+package com.lws.android.library.util.lifecycle;
 
 /**
  * Created by lws on 2017/9/13.

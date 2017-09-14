@@ -1,4 +1,4 @@
-package com.lws.library.activity;
+package com.lws.android.library.activity;
 
 import android.os.Bundle;
 import android.support.annotation.Nullable;

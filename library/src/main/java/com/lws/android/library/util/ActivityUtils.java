@@ -1,4 +1,4 @@
-package com.lws.library.util;
+package com.lws.android.library.util;
 
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;

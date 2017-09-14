@@ -1,4 +1,4 @@
-package com.lws.library.util;
+package com.lws.android.library.util;
 
 import android.content.Context;
 import android.net.ConnectivityManager;
